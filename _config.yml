@@ -1,16 +1,16 @@
 title:              DataBlog
 email:              estebaneec11@hotmail.com
-description:        Blog en ciencia de datos y machine learning
+description:        Personal blog in data science and machine learning
 author:             Esteban Rodriguez
 baseurl:            ""
 url:                "https://esjerome.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:    
+github_username:    esjerome
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: esteban-rodriguez-mendoza
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
